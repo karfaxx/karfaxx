@@ -1,6 +1,6 @@
 ### OLÁ! EU SOU O ANDRÉ LUIZ 👋
 
-**karfaxx/karfaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**karfaxx/karfaxx** is a ✨@@✨.
 
 Here are some ideas to get you started:
 
