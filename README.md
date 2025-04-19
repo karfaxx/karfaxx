@@ -2,8 +2,6 @@
 
 **karfaxx/karfaxx** is a ✨@@✨.
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando TypeScript
 - 📫 Contate-me no email: andreluizzta@gmail.com
