@@ -1,9 +1,9 @@
 ### OLÁ! EU SOU O ANDRÉ LUIZ 👋
 
-**karfaxx/karfaxx** is a ✨@@✨.
+**karfaxx/karfaxx** 
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando TypeScript
+- 🌱 Estudando React ✨ Phyton
 - 📫 Contate-me no email: andreluizzta@gmail.com
 
 
